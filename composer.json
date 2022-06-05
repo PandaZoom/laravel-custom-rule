@@ -1,0 +1,20 @@
+{
+  "name": "panda-zoom/laravel-custom-rule",
+  "description": "Abstract Laravel custom rule.",
+  "minimum-stability": "stable",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "Vlad Radchenko",
+      "email": "westen7ua@gmail.com"
+    }
+  ],
+  "require": {
+    "php": "^8.1"
+  },
+  "autoload": {
+    "psr-4": {
+      "PandaZoom\\LaravelCustomRule\\": "src/"
+    }
+  }
+}
